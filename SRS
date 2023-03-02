@@ -1,0 +1,86 @@
+System Requirements Specification Document
+
+Table of Contents:
+
+1.Introduction
+
+2.Purpose
+
+3.Scope
+
+4.Definitions, Acronyms and Abbreviations
+
+5.References
+
+6.Overview
+
+7.Functional Requirements
+
+8.Non-Functional Requirements
+
+9.System Models
+
+10.Other Requirements
+
+11.Appendices
+
+1.Introduction
+This System Requirements Specification (SRS) document describes the requirements for the e-commerce system. This document outlines the functional and non-functional requirements, constraints and assumptions of the system, along with other necessary information for the system development.
+
+2.Purpose
+The purpose of this document is to clearly define the requirements for the e-commerce system. This document serves as a guide for the development team to ensure the system meets the needs of the stakeholders and end-users.
+
+3.Scope
+The e-commerce system will provide an online platform for customers to purchase products and services. The system will include features such as product browsing, shopping cart, checkout, payment processing, order tracking, and customer support.
+
+4.Definitions, Acronyms and Abbreviations
+
+SRS: System Requirements Specification
+E-commerce: Electronic commerce
+UI: User interface
+API: Application programming interface
+References
+
+5.Overview
+The e-commerce system will consist of the following functional and non-functional requirements:
+
+6.Functional Requirements
+The functional requirements of the system are as follows:
+
+The system shall allow customers to browse and search for products by category, price, and other relevant criteria.
+The system shall allow customers to add products to a shopping cart.
+The system shall allow customers to view their shopping cart and modify its contents.
+The system shall allow customers to check out and pay for their purchases.
+The system shall support various payment methods such as credit/debit cards, PayPal, and other relevant methods.
+The system shall send confirmation emails to customers upon successful order placement.
+The system shall allow customers to track their orders and view their order history.
+The system shall allow customers to leave feedback and ratings for products.
+The system shall provide customer support through email, chat, or phone.
+7.Non-Functional Requirements
+The non-functional requirements of the system are as follows:
+The system shall be secure and protect customer information.
+The system shall be available 24/7 with minimal downtime.
+The system shall be scalable to handle increasing numbers of customers and transactions.
+The system shall be user-friendly with an intuitive UI.
+The system shall be responsive and load quickly on various devices and internet speeds.
+The system shall be compatible with various web browsers and operating systems.
+The system shall comply with relevant regulations such as GDPR and PCI-DSS.
+System Models
+
+
+8.Other Requirements
+
+The system shall be developed using modern technologies such as HTML, CSS, JavaScript, and relevant backend frameworks and libraries.
+The system shall be hosted on a reliable and secure server.
+The system shall be regularly tested and maintained to ensure its reliability and security.
+The system shall be documented with user manuals and technical documentation for the development team.
+Appendices
+The following are the list of conventions and acronyms used in this document and the project aswell:
+ 
+User: Normally user can comment or view details of E-commerce availability.
+ 
+Client: Intended users for the software.SQL: Structured Query Language; used to retrieve information from a database.
+ 
+SQL Server: A server used to store data in an organized format.
+ 
+Layer: Represents a section of the project.
